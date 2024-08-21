@@ -30,6 +30,20 @@ Je suis spécialisé dans :
 
 ---
 
+## 🚀 **Projets et réalisations**
+
+### 🔹 [Boostéo+](https://www.linkedin.com/in/boosteo-plus/)
+ Une communauté dynamique d'entrepreneurs, qui propulse la visibilité et l'influence de ses membres sur les réseaux sociaux (LinkedIn, X ...) grâce à un soutien collectif et des stratégies de croissance accélérées.
+### 🔹 [Benin expat](https://www.beninexpat.com)
+Une plateforme dédiée à l'organisation de voyages de luxe, d'événements et d'expériences touristiques au Bénin.
+
+### 🔹 [Pôle Afrique](https://www.poleafrique.com)
+Une agence de marketing digital spécialisée dans la création de sites web, la gestion de campagnes publicitaires et l'optimisation de la présence digitale des entreprises en Afrique.
+
+### 🔹 [Plateforme Livre médécine](https://livre-medecine.com/)
+
+---
+
 ## 🔧 **Technologies & Outils**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -45,20 +59,6 @@ Je suis spécialisé dans :
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 </p>
-
-## 🚀 **Projets et réalisations**
-
-### 🔹 [Boostéo+](https://www.linkedin.com/in/boosteo-plus/)
- Une communauté dynamique d'entrepreneurs, qui propulse la visibilité et l'influence de ses membres sur les réseaux sociaux (LinkedIn, X ...) grâce à un soutien collectif et des stratégies de croissance accélérées.
-### 🔹 [Benin expat](https://www.beninexpat.com)
-Une plateforme dédiée à l'organisation de voyages de luxe, d'événements et d'expériences touristiques au Bénin.
-
-### 🔹 [Pôle Afrique](https://www.poleafrique.com)
-Une agence de marketing digital spécialisée dans la création de sites web, la gestion de campagnes publicitaires et l'optimisation de la présence digitale des entreprises en Afrique.
-
-### 🔹 [Plateforme Livre médécine](https://livre-medecine.com/)
-
----
 
 ## 🌱 **Actuellement en apprentissage**
 - 📈 **Analyse de données avancée :** Approfondir mes connaissances en data science et machine learning.
