@@ -1,6 +1,8 @@
-# 👋 Bonjour, je suis **Ange Djetta**
+
 
 ![Couverture](https://media.licdn.com/dms/image/v2/D4E16AQFcVNXmztFiPA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724146286618?e=1729728000&v=beta&t=qyxceLU7cqcDYRuDMsPWjBaSeAwb_3mz0ucqpsVXIQ4)
+
+#                                                                      👋 Bonjour, je suis **Ange Djetta**
 
 Bienvenue sur mon profil GitHub ! Je suis un développeur web🌐, marketeur digital 📈, et entrepreneur 💼, passionné par la création de solutions technologiques innovantes, notamment pour l'écosystème africain.
 
@@ -32,16 +34,18 @@ Je suis spécialisé dans :
 
 ---
 
-## 🚀 **Projets**
+## 🚀 **Projets et réalisations**
 
 ### 🔹 [Boostéo+](https://www.linkedin.com/in/boosteo-plus/)
  Une communauté dynamique d'entrepreneurs, qui propulse la visibilité et l'influence de ses membres sur les réseaux sociaux (LinkedIn, X ...) grâce à un soutien collectif et des stratégies de croissance accélérées.
-### 🔹 [Beninexpat](https://www.beninexpat.com)
+### 🔹 [Benin expat](https://www.beninexpat.com)
 Une plateforme dédiée à l'organisation de voyages de luxe, d'événements et d'expériences touristiques au Bénin.
 
 ### 🔹 [Pôle Afrique](https://www.poleafrique.com)
 Une agence de marketing digital spécialisée dans la création de sites web, la gestion de campagnes publicitaires et l'optimisation de la présence digitale des entreprises en Afrique.
 
+### 🔹 [Livre médécine](https://livre-medecine.com/)
+Le site livre-medecine.com propose la vente et la promotion d'un livre de médecine adapté au contexte africain, intitulé "Du milieu intérieur aux urgences obstétricales".Rédigé par un collectif de médecins, cet ouvrage propose des techniques et connaissances actualisées adaptées au contexte africain pour les procédures médico-chirurgicales.
 ---
 
 ## 🌱 **Actuellement en apprentissage**
@@ -51,7 +55,7 @@ Une agence de marketing digital spécialisée dans la création de sites web, la
 ---
 
 ## 🎯 **Objectifs**
-- 🌐 **Devenir le leader africain en courtage de données :** Construire une plateforme pour la collecte et l'exploitation des données à travers l'Afrique.
+- 🌐 **Devenir un leader africain en courtage de données :** Construire une plateforme pour la collecte et l'exploitation des données à travers l'Afrique.
 - 🚀 **Communauté Boostéo :** Créer un réseau dynamique d'entrepreneurs pour une croissance mutuelle et une visibilité accrue sur les réseaux sociaux.
 
 ---
@@ -65,9 +69,13 @@ Une agence de marketing digital spécialisée dans la création de sites web, la
 
 ## 📫 **Restons en contact !**
 <p align="center">
-  <a href="https://www.linkedin.com/in/djetta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/Djetta"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:contact@djetta.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ange-djetta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/angebj00"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:angedj00@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/22996140235"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/angebj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <br>
+  📞 **Téléphone :** +229 96 14 02 35 
 </p>
 
 ---
