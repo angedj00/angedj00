@@ -2,7 +2,7 @@
 
 ![Couverture](https://media.licdn.com/dms/image/v2/D4E16AQFcVNXmztFiPA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724146286618?e=1729728000&v=beta&t=qyxceLU7cqcDYRuDMsPWjBaSeAwb_3mz0ucqpsVXIQ4)
 
-#                                                                      👋 Bonjour, je suis **Ange Djetta**
+  # 👋 Bonjour, je suis **Ange Djetta**
 
 Bienvenue sur mon profil GitHub ! Je suis un développeur web🌐, marketeur digital 📈, et entrepreneur 💼, passionné par la création de solutions technologiques innovantes, notamment pour l'écosystème africain.
 
@@ -75,6 +75,8 @@ Le site livre-medecine.com propose la vente et la promotion d'un livre de médec
   <a href="https://wa.me/22996140235"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://www.instagram.com/angebj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <br>
+
+  
   📞 **Téléphone :** +229 96 14 02 35 
 </p>
 
