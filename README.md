@@ -2,7 +2,7 @@
 
 ![Couverture](https://media.licdn.com/dms/image/v2/D4E16AQFcVNXmztFiPA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724146286618?e=1729728000&v=beta&t=qyxceLU7cqcDYRuDMsPWjBaSeAwb_3mz0ucqpsVXIQ4)
 
-  # 👋 Hello, je suis **Ange Djetta**
+  # 👋 Bonjour, je suis **Ange Djetta**
 
 Bienvenue sur mon profil GitHub ! Je suis un développeur web🌐, marketeur digital 📈, et entrepreneur 💼, passionné par la création de solutions technologiques innovantes, notamment pour l'écosystème africain.
 
