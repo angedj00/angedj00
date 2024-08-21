@@ -44,8 +44,8 @@ Une plateforme dédiée à l'organisation de voyages de luxe, d'événements et 
 ### 🔹 [Pôle Afrique](https://www.poleafrique.com)
 Une agence de marketing digital spécialisée dans la création de sites web, la gestion de campagnes publicitaires et l'optimisation de la présence digitale des entreprises en Afrique.
 
-### 🔹 [Livre médécine](https://livre-medecine.com/)
-Le site livre-medecine.com propose la vente et la promotion d'un livre de médecine adapté au contexte africain, intitulé "Du milieu intérieur aux urgences obstétricales".Rédigé par un collectif de médecins, cet ouvrage propose des techniques et connaissances actualisées adaptées au contexte africain pour les procédures médico-chirurgicales.
+### 🔹 [Plateforme Livre médécine](https://livre-medecine.com/)
+
 ---
 
 ## 🌱 **Actuellement en apprentissage**
