@@ -23,7 +23,7 @@ Je suis spécialisé dans :
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_June_2021.svg" alt="Twitter" height="30"/>
   </a>
   <a href="mailto:angedj00@icloud.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Logo_2015.png" alt="Email" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Gmail_icon_%282013-2017%29.png" alt="Email" height="30"/>
   </a>
   <a href="https://wa.me/22996140235">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp_Logo.svg" alt="WhatsApp" height="30"/>
