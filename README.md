@@ -76,7 +76,34 @@ Une agence de marketing digital spécialisée dans la création de sites web, la
   <a href="https://www.instagram.com/angebj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <br>
 
-  
+  ## 📩 **Formulaire de Contact**
+
+<p>Pour me contacter directement, veuillez remplir le formulaire ci-dessous. Je vous répondrai dès que possible !</p>
+
+<form action="https://formspree.io/f/your-form-id" method="POST">
+  <label for="name">Nom et Prénom:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email" required><br><br>
+
+  <label for="phone">Numéro de Téléphone:</label><br>
+  <input type="tel" id="phone" name="phone" required><br><br>
+
+  <label for="service">Service Demandé:</label><br>
+  <select id="service" name="service">
+    <option value="Développement Web">Développement Web</option>
+    <option value="Marketing Digital">Marketing Digital</option>
+    <option value="Analyse de Données">Analyse de Données</option>
+    <option value="Autre">Autre</option>
+  </select><br><br>
+
+  <label for="message">Autres Informations:</label><br>
+  <textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
+
+  <input type="submit" value="Envoyer">
+</form>
+
   📞 **Téléphone :** +229 96 14 02 35 
 </p>
 
