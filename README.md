@@ -4,7 +4,7 @@
 
   # 👋 Bonjour, je suis **Ange Djetta**
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur web🌐, marketeur digital 📈, et entrepreneur 💼, passionné par la création de solutions technologiques innovantes, notamment pour l'écosystème africain.
+Bienvenue sur mon profil ! Je suis un développeur web🌐, marketeur digital 📈, et entrepreneur 💼, passionné par la création de solutions technologiques innovantes, notamment pour l'écosystème africain.
 
 ---
 
