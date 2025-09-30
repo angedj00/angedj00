@@ -2,59 +2,164 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=300&section=header&text=Ange%20Djetta&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Développeur%20Web%20•%20Marketeur%20Digital%20•%20Entrepreneur&descAlignY=55&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=835&lines=Bienvenue+sur+mon+profil+!+👋;Innovateur+Tech+pour+l'Afrique+🌍;Créateur+de+Solutions+Digitales+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=835&lines=Bienvenue+sur+mon+profil+GitHub+!+👋;Innovateur+Tech+pour+l'Afrique+🌍;Créateur+de+Solutions+Digitales+🚀)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎯 À Propos de Moi
-
-```javascript
-const ange = {
-    localisation: "🇧🇯 Bénin, Afrique",
-    rôles: ["Développeur Web", "Marketeur Digital", "Entrepreneur"],
-    mission: "Créer des solutions technologiques innovantes pour l'écosystème africain",
-    actuellement: {
-        apprentissage: ["Data Science", "Machine Learning", "Montage Vidéo"],
-        projets: ["Boostéo+", "Benin Expat", "Pôle Afrique"]
-    },
-    contact: "angedj00@icloud.com"
-};
-```
+## 👨‍💻 À Propos de Moi
 
 <div align="center">
 
-### 🌟 Mes Domaines d'Expertise
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ange+Djetta;Développeur+Web+%7C+Marketeur+%7C+Entrepreneur" alt="Typing SVG" />
+</h3>
 
-<table>
+<p align="center">
+  <img src="https://img.shields.io/badge/🇧🇯-Cotonou%2C%20Bénin-success?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/📧-angedj00%40icloud.com-blue?style=for-the-badge" alt="Email"/>
+  <img src="https://img.shields.io/badge/📞-%2B229%2096%2014%2002%2035-orange?style=for-the-badge" alt="Phone"/>
+</p>
+
+</div>
+
+<br>
+
+<table align="center">
 <tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
+<td width="55%" valign="top">
 
-**Développement Web**
+### 🎯 Qui suis-je ?
 
-Sites web réactifs et applications modernes adaptées aux besoins africains
+Créateur de solutions digitales innovantes, je me spécialise dans la transformation numérique des entreprises africaines. Avec une expertise polyvalente en développement web, marketing digital et analyse de données, je conçois des stratégies technologiques qui génèrent des résultats mesurables.
 
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/business.png" width="80"/>
-
-**Marketing Digital**
-
-Campagnes Google Ads, Facebook Ads et stratégies SEO performantes
+**💼 Mon Approche :**
+- ✅ Solutions sur mesure adaptées au contexte africain
+- ✅ Focus sur le ROI et la performance
+- ✅ Technologies modernes et scalables
+- ✅ Accompagnement de A à Z
 
 </td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/analytics.png" width="80"/>
+<td width="45%" valign="top">
 
-**Analyse de Données**
+### 📊 En Chiffres
 
-Collecte et interprétation des données pour des décisions éclairées
+```
+🚀  5+ ans d'expérience
+💻  50+ projets réalisés
+🌍  3 entreprises fondées
+📈  100+ campagnes publicitaires
+🎓  Formation continue en Data Science
+```
+
+**🔥 Actuellement :**
+- Développement de Boostéo+
+- Gestion de Pôle Afrique
+- Expansion de Benin Expat
 
 </td>
 </tr>
 </table>
+
+---
+
+## 💼 Mes Services Professionnels
+
+<div align="center">
+
+### Des solutions digitales complètes pour propulser votre entreprise
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+
+### 🌐 Développement Web
+
+**Sites vitrines • E-commerce • Applications**
+
+Sites web professionnels responsive et optimisés SEO, adaptés à vos besoins et à votre budget.
+
+**Technologies :** HTML5, CSS3, JavaScript, PHP, WordPress, MySQL
+
+<details>
+<summary><b>🔍 En savoir plus</b></summary>
+
+- Design moderne et attractif
+- Performance optimisée
+- Mobile-first responsive
+- Maintenance incluse
+- Formation à l'administration
+
+</details>
+
+![](https://img.shields.io/badge/Prix-Sur%20Devis-blue?style=flat-square)
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="60"/>
+
+### 📈 Marketing Digital
+
+**Google Ads • Meta Ads • SEO**
+
+Stratégies publicitaires complètes pour maximiser votre visibilité en ligne et générer des leads qualifiés.
+
+**Expertises :** Google Ads, Facebook Ads, Instagram Ads, LinkedIn, SEO
+
+<details>
+<summary><b>🔍 En savoir plus</b></summary>
+
+- Audit marketing gratuit
+- Campagnes ciblées et optimisées
+- Reporting détaillé mensuel
+- Gestion budgétaire efficace
+- Support réactif
+
+</details>
+
+![](https://img.shields.io/badge/ROI-Garanti-green?style=flat-square)
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60"/>
+
+### 📊 Conseil & Analytics
+
+**Data Analysis • Stratégie RH • Consulting**
+
+Analyse de données et conseil stratégique pour optimiser vos processus et améliorer vos performances.
+
+**Services :** Analytics, Reporting, Optimisation RH, Formation
+
+<details>
+<summary><b>🔍 En savoir plus</b></summary>
+
+- Audit complet de vos données
+- Tableaux de bord personnalisés
+- Recommandations actionnables
+- Optimisation des processus RH
+- Formation de vos équipes
+
+</details>
+
+![](https://img.shields.io/badge/Impact-Mesurable-orange?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎁 Offre Spéciale : Consultation Gratuite de 30 minutes
+
+[![Prendre RDV](https://img.shields.io/badge/📅-Réserver%20une%20consultation-00D9FF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://wa.me/22996140235)
 
 </div>
 
@@ -189,52 +294,6 @@ graph LR
 
 ---
 
-## 💼 Services Professionnels
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🌐 Développement Web
-
-Sites web sur mesure
-Applications web réactives
-E-commerce optimisé
-
-![Web](https://img.shields.io/badge/Disponible-Maintenant-success?style=for-the-badge)
-
-</td>
-<td align="center" width="33%">
-
-### 📈 Campagnes Publicitaires
-
-Google Ads Management
-Facebook & Instagram Ads
-Optimisation ROI
-
-![Ads](https://img.shields.io/badge/Disponible-Maintenant-success?style=for-the-badge)
-
-</td>
-<td align="center" width="33%">
-
-### 🧑‍💼 Conseil RH
-
-Optimisation des processus
-Recrutement stratégique
-Formation équipes
-
-![HR](https://img.shields.io/badge/Disponible-Maintenant-success?style=for-the-badge)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📫 Connectons-nous !
 
 <div align="center">
@@ -263,5 +322,3 @@ Formation équipes
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer)
 
 **⭐ N'hésitez pas à explorer mes dépôts et à me contacter pour toute collaboration !**
-
-</div>
